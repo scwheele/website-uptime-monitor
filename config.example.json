@@ -1,0 +1,14 @@
+{
+  "google.com": {
+    "url": "http://google.com",
+    "method": "get",
+    "expectStatus": 200,
+    "maxLatency": 1000
+  },
+  "midohio360.com": {
+    "url": "http://reddit.com",
+    "method": "get",
+    "expectStatus": 200,
+    "maxLatency": 1000
+  }
+}
